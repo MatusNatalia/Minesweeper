@@ -1,2 +1,2 @@
 # Minesweeper
-Игра "Сапёр" в стиле Барби
+Игра "Сапёр" в стиле Барби (Java, Swing, MVC Pattern)
