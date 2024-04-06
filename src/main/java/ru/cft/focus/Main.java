@@ -1,10 +1,10 @@
 package ru.cft.focus;
 
-import ru.cft.focus.client.controller.Controller;
+import ru.cft.focus.controller.Controller;
 import ru.cft.focus.model.DefaultModel;
 import ru.cft.focus.records.GameRecordTable;
 import ru.cft.focus.timer.GameTimer;
-import ru.cft.focus.client.view.View;
+import ru.cft.focus.view.View;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.cft.focus.client.view;
+package ru.cft.focus.view;
 
 import javax.swing.*;
 
